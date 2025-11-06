@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PhotoDrop QR Share",
+  "description": "An ephemeral photo sharing web app. An admin uploads photos, and anyone can view and download them via a QR code. All photos are automatically deleted after 48 hours.",
+  "requestFramePermissions": []
+}
